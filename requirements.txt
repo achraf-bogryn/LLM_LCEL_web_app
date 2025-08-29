@@ -1,0 +1,15 @@
+streamlit
+ipykernel
+
+# LangChain and AI Dependencies
+langchain
+langchain-openai
+langchain-core
+langchain-community
+langchain-huggingface
+openai
+langchain_groq
+
+# Rest API
+fastapi
+uvicorn
